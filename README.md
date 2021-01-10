@@ -9,7 +9,8 @@ a small project using tensorflow.
 # DATASET USED
 ASL LANGUAGE - https://www.kaggle.com/grassknoted/asl-alphabet
 
-# TECHNOLOGY
-Tensorflow
-Numpy
+# LIBRARIES
+* Tensorflow
+* Numpy
+* OPENCV
 
