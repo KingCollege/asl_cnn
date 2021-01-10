@@ -2,6 +2,7 @@ asl_alphabet_test/*
 asl_alphabet_train/*
 asl_cnn/*
 venv/*
+__pycache__/*
 
 # Created by https://www.toptal.com/developers/gitignore/api/pycharm+all
 # Edit at https://www.toptal.com/developers/gitignore?templates=pycharm+all
