@@ -12,5 +12,5 @@ ASL LANGUAGE - https://www.kaggle.com/grassknoted/asl-alphabet
 # LIBRARIES
 * Tensorflow
 * Numpy
-* OPENCV
+* OpenCV
 
